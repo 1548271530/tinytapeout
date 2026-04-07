@@ -1,7 +1,7 @@
 project:
-  wokwi_id:     460572563557172225
+  wokwi_id:     460598806469709825
   title:        "Truth Table LED - NU Workshop Demo"
-  author:       "Jack Thoene"
+  author:       "zihang"
   discord:      ""
   description:  "NAND gate truth table with LED indicators"
   language:     "Wokwi"
